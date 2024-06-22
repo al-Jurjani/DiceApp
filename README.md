@@ -1,16 +1,11 @@
-# dice_app
+# Dice App
 
-A new Flutter project.
+A simple dice application. My very first Flutter app!
+Six separate images represent each side of a dice. Tapping a button will roll the dice, and randomly change to one of the six sides.
+In the process, the background colour will also change.
 
-## Getting Started
+## Key Points
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Primarily the 'main.dart' and 'my_container.dart' files are used.
+- All the other files were used to learning and testing.
+- The course I am following: https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps
