@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'dart:math';
-
 final randomizer = Random();
 
 class MyContainer extends StatefulWidget {
@@ -17,7 +16,7 @@ const endAlignment = Alignment.bottomRight;
 const constantBGColours = {
   1: [Color.fromRGBO(103, 58, 183, 1), Color.fromRGBO(255, 64, 129, 1)],
   2: [Color.fromRGBO(3, 180, 224, 1), Color.fromRGBO(255, 179, 0, 1)],
-  3: [Color.fromRGBO(247, 177, 2, 1), Color.fromRGBO(0, 0, 0, 1)],
+  3: [Color.fromRGBO(247, 177, 2, 1), Color.fromRGBO(17, 1, 1, 1)],
   4: [Color.fromRGBO(238, 255, 0, 1), Color.fromRGBO(253, 17, 0, 1)],
   5: [Color.fromRGBO(255, 0, 242, 1), Color.fromRGBO(0, 252, 76, 1)],
   6: [Color.fromRGBO(2, 213, 77, 1), Color.fromRGBO(77, 23, 221, 1)]

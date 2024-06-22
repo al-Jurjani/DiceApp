@@ -1,6 +1,6 @@
 // My First App!
 import 'package:flutter/material.dart'; // This includes the runApp() method,
-import 'package:dice_app/vis_container.dart';
+// import 'package:dice_app/vis_container.dart';
 import 'package:dice_app/my_container.dart';
 
 // among others.
